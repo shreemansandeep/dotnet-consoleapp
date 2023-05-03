@@ -1,0 +1,15 @@
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.exe
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.deps.json
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.runtimeconfig.json
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.dll
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\bin\Release\net6.0\ConsoleApp1.pdb
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.AssemblyInfo.cs
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.dll
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\refint\ConsoleApp1.dll
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.pdb
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ConsoleApp1.genruntimeconfig.cache
+F:\.NET PROJECT\ConsoleApp1\ConsoleApp1\obj\Release\net6.0\ref\ConsoleApp1.dll
